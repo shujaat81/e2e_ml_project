@@ -8,6 +8,6 @@ $schema: https://azuremlschemas.azureedge.net/latest/data.schema.json
 
 type: uri_folder
 name: diabetes-dev-folder
-version: 0.11
+version: 0.1
 description: just a test to run job on azure
 path: /home/shujaat_tracebloc/open_source/e2e_ml_project/experimentation/data
